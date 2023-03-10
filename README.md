@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Programa pela Rocketseat para ensino de tecnologias WEB. <br/>
+Programa lecionado pela Rocketseat para ensino de tecnologias WEB. <br/>
 </p>
 
 <p align="center">
